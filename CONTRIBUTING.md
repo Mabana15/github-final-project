@@ -26,6 +26,34 @@ If you find a bug, please open an issue and include:
 
 - Write clear commit messages
 - Keep pull requests small and focused
-- Update README.md if needed
+- Update README.md if needed# Contributor Covenant Code of Conduct
+
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
+
+## Our Standards
+Examples of behavior that contributes to a positive environment include:
+* Demonstrating empathy and kindness
+* Being respectful of differing opinions
+* Giving and gracefully accepting constructive feedback
+
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action.
+
+## Scope
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
+
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders. All complaints will be reviewed and investigated.
+
+## Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines:
+1. Correction
+2. Warning
+3. Temporary Ban
+4. Permanent Ban
+
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1.- 
 
 Thank you!
